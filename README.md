@@ -1,6 +1,6 @@
 navbar-scrollup
 ===============
-This is a CoffeeScript implementation of [Hide Header on Scroll Down, Show on Scroll Up](https://medium.com/design-startups/67bbaae9a78c).
+This is a CoffeeScript implementation of [Hide Header on Scroll Down, Show on Scroll Up](https://medium.com/design-startups/67bbaae9a78c). It depends on jQuery.
 
 It expects (Bootstrap 3) HTML like this:
 ```
